@@ -1171,7 +1171,9 @@ footer p {
 }
 
 .np-main {
+	margin-top: -32px;
 	width: 100%;
+	margin-bottom: 20px;
 }
 
 .services-info ul li {
